@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#f8f8f8;
+}
+.book-library>img{
+	text-align:center;
+}
+.book-library>h1{
+	text-align:center;
+}
+.author{
+	color:#777777;
+}
+.btn{
+	background-color:#2ecc71;
+	width:100%;
+}
+.center{
+	text-align:center;
+}
